@@ -143,23 +143,23 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 
 ## Demo
 
-### Sort Filter Search Nav SideNav
+### Sort, Filter, Search, Nav, SideNav
 
 ![Sort Filter Search Nav SideNav][sort-filter-search-nav-side-nav]
 
-### Screen SubNav SearchFilter Pagination
+### Screen, SubNav, SearchFilter, Pagination
 
 ![Screen SubNav SearchFilter Pagination][screen-sub-nav-search-filter-pagination]
 
-### Responsive
+### Responsive any size
 
 ![Responsive][responsive]
 
-### Currency Shipping Payment Contact Profile Validate
+### Currency, Shipping, Payment, Contact, Profile, Validate
 
 ![Currency Shipping Payment Contact Profile Validate][currency-shipping-payment-contact-profile-validate]
 
-### Content Management Product Image User Order
+### Content, Management, Product, Image, User, Order
 
 ![Content Management Product Image User Order][content-management-product-image-user-order]
 
@@ -168,6 +168,10 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 [responsive]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Responsive.gif
 [screen-sub-nav-search-filter-pagination]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Screen%20SubNav%20SearchFilter%20Pagination.gif
 [sort-filter-search-nav-side-nav]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Sort%20Filter%20Search%20Nav%20SideNav.gif
+
+## Preview video
+
+[![Preview video on youtube](https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/preview-video-on-youtube.png)](https://www.youtube.com/watch?v=7GNQKYdpDHQ)
 
 ## Nx Amazin' Amazim Store
 
